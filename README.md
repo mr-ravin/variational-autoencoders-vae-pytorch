@@ -20,7 +20,7 @@
 
 ![image](https://github.com/mr-ravin/variational-autoencoders-vae-pytorch/blob/main/pred/pred_1.jpg?raw=true)
 
-#### Note: VAEs do suffer from blurry generated samples and reconstructions compared to the images they have been trained on.
+#### Note: VAEs do suffer from blurry generated samples and reconstructions compared to the images they have been trained on. Also, here we have used 128x128 RGB Image as input.
 
 
 ```
