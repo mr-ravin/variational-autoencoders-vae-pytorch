@@ -22,6 +22,8 @@
 
 ![image](https://github.com/mr-ravin/variational-autoencoders-vae-pytorch/blob/main/sample2.jpg?raw=true)
 
+![image](https://github.com/mr-ravin/variational-autoencoders-vae-pytorch/blob/main/sample3.jpg?raw=true)
+
 #### Note: VAEs do suffer from blurry generated samples and reconstructions compared to the images they have been trained on. Also, here we have used 128x128 RGB Image as input.
 
 
